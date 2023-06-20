@@ -1,9 +1,9 @@
 import { Box } from "@chakra-ui/react"
 
-export const Footer = () => {
+export const Header  = () => {
   return(
     <Box color="white">
-      Contatos:
+      Segundo Desafio TS
     </Box>
   )
 }
